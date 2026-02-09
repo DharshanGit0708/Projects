@@ -36,7 +36,7 @@ As someone passionate about both **Logic (Backend)** and **Design (UI/UX)**, I f
 
 | Project | Key Functionality | Core Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **Multiplication Gen v1.0** | Generates dynamic math tables with custom user inputs. | Loops, Scanner | ✅ **Completed** |
+| **Multiplication Table Generator v1.0** | Generates dynamic math tables with custom user inputs. | Loops, Scanner | ✅ **Completed** |
 | *(Coming Soon)* | *Logic-based number games* | *Random, Conditionals* | 🚧 *Planned* |
 | *(Coming Soon)* | *Banking System Prototype* | *OOPs, Methods* | 🚧 *Planned* |
 
