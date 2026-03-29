@@ -6,8 +6,8 @@ A collection of user interface and user experience design projects. As a full-st
 
 | Project | Description | Role |
 | :--- | :--- | :--- |
-| [**Paper Glass eBook Library**](./PaperGlass%20ebook%20UI) | Responsive UI/UX design for a digital library, featuring custom component libraries and interactive prototypes. | UI/UX Designer |
-
+| [Paper Glass eBook Library](./PaperGlass%20ebook%20UI/README.md) | Responsive UI/UX design for a digital library, featuring custom component libraries and interactive prototypes. | UI/UX Designer |
+| [TNSTC App Redesign](./TNSTC-App-Redesign/README.md) | A mobile-first authentication flow redesign resolving high user friction, featuring responsive design architecture and interactive prototypes. | UI/UX & Front-End Architecture |
 *(More projects will be added as they are completed.)*
 
 ## 🛠️ Design Stack
