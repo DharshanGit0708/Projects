@@ -29,9 +29,14 @@ I conducted a UX audit of the legacy app and redesigned the core screens to prio
 * **The UX Problem:** Overwhelming input fields and a lack of visual affordances.
 * **The Solution:** Simplified inputs, clear error state handling, and the addition of modern conveniences like "Continue with Google" OAuth placeholders. 
 
+**Login UI Redesign:**
 <p align="center">
-  <img src="(4) Log In Screen.png" width="45%" alt="Log In Screen Before and After" />
-  <img src="(6) Sign Up Screen.png" width="45%" alt="Sign Up Screen Before and After" />
+  <img src="(4) Log In Screen.png" width="60%" alt="Log In Screen Before and After" />
+</p>
+
+**Registration UI Redesign:**
+<p align="center">
+  <img src="(6) Sign Up Screen.png" width="90%" alt="Sign Up Screen Before and After" />
 </p>
 
 ### 3. Password Recovery (OTP Integration)
